@@ -3603,16 +3603,6 @@
       <change afterPath="$PROJECT_DIR$/../highways-sync/app/Http/Apps/Close.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../highways-sync/database/seeds/Integrations/Close.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../highways-sync/public/images/brands/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/teachworks-php.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeachworksCustomers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeachworksInvoices.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeachworksLessons.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeachworksPayments.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeachworksStudents.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../thinkific-video/app/Http/Middleware/SSLRedirect.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../drone-mapper/.idea/drone-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../drone-mapper/.idea/drone-mapper.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../drone-mapper/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../drone-mapper/.idea/php.xml" afterDir="false" />
@@ -3655,6 +3645,10 @@
       <change beforePath="$PROJECT_DIR$/../nimble-php/src/NimbleContacts.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../nimble-php/src/NimbleResource.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../nimble-php/src/NimbleUser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/teachworks-php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/teachworks-php.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../thinkific-video/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thinkific-video/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../thinkific-video/.idea/thinkific-video.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../thinkific-video/.idea/thinkific-video.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../thinkific-video/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thinkific-video/.idea/vcs.xml" afterDir="false" />
@@ -3689,12 +3683,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -3717,7 +3711,6 @@
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
       <path value="$PROJECT_DIR$/vendor/psr/http-client" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
       <path value="$PROJECT_DIR$/vendor/php-http/discovery" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
@@ -3748,6 +3741,8 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
       <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
       <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kF7Nih5TeaSPrXK08SpDqfXjBt" />
@@ -3778,7 +3773,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605284448240</updated>
-      <workItem from="1605284449301" duration="1883000" />
+      <workItem from="1605284449301" duration="3218000" />
+      <workItem from="1605368514012" duration="598000" />
+      <workItem from="1605472640215" duration="513000" />
+      <workItem from="1605535574973" duration="545000" />
     </task>
     <servers />
   </component>

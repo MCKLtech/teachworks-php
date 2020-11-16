@@ -6,7 +6,7 @@ PHP bindings to the Teachworks API
 
 This library requires PHP 7.1 and later
 
-The recommended way to install thinkific-php is through [Composer](https://getcomposer.org):
+The recommended way to install teachworks-php is through [Composer](https://getcomposer.org):
 
 This library is intended to speed up development time but is not a shortcut to reading the Teachworks documentation. Many endpoints require specific and required fields for successful operation. Always read the documentation before using an endpoint.
 
@@ -51,7 +51,7 @@ $client->customers->get(1310);
 
 All endpoints follow a similar mechanism to the examples show above. Again, please ensure you read the Teachworks API documentation prior to use as there are numerous required fields for most POST/PUT operations.
 
-Not all operations are supported e.g. You may not be able to CREATE, UPDATE OR DELETE on certain endpoints. These methods are included for library completeness. Always check in a sandbox first.
+Not all operations are supported e.g. You may not be able to CREATE, UPDATE OR DELETE on certain endpoints. These methods are included for library completeness in the hope they may one day be supported. Always check in a sandbox first.
 
 - Employees
 - Customers
